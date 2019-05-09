@@ -16,7 +16,7 @@ It requires following dependency to be installed:
 - Extract the data.zip, it contains the data/classes/images of four different classes
 - You can re-train ResNet on your on dataset. Just replace data/classes/ with your images
 - Open the ResNet50_retrain.ipynb in Jupyter notebook
-- Excute all the cells one by one
+- Execute all the cells one by one
 - ResNet50_retrain.ipynb and data folder should be in the same directory
 
 ## Simply use the ResNet50 model
