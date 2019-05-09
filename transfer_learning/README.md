@@ -3,4 +3,4 @@ Transfer learning refers to the technique of using knowledge of one domain to an
 
 Repository containging the code, dataset and explanations for different CNN based models like ResNet, VGG, etc.
 
-- [ResNet model](https://github.com/tejalal/transfer_learning/tree/master/ResNet)
+- [ResNet model](https://github.com/tejalal/Deep-Learning/tree/master/transfer_learning/ResNet)
